@@ -1,0 +1,14 @@
+C:\QA\ProjectWork\src\main\java\common\AbsCommon.java
+C:\QA\ProjectWork\src\main\java\data\catalog\LessonsCategoryData.java
+C:\QA\ProjectWork\src\main\java\data\sorted\EventTypeData.java
+C:\QA\ProjectWork\src\main\java\exeption\BrowserNotSupportedExeption.java
+C:\QA\ProjectWork\src\main\java\factory\DriverFactory.java
+C:\QA\ProjectWork\src\main\java\factory\logger\LoggerManager.java
+C:\QA\ProjectWork\src\main\java\factory\settings\ChromeDriverSettings.java
+C:\QA\ProjectWork\src\main\java\factory\settings\FirefoxDriverSettings.java
+C:\QA\ProjectWork\src\main\java\factory\settings\IDriverSettings.java
+C:\QA\ProjectWork\src\main\java\pages\AbsBasePage.java
+C:\QA\ProjectWork\src\main\java\pages\CalendarEventsPage.java
+C:\QA\ProjectWork\src\main\java\pages\CatalogPage.java
+C:\QA\ProjectWork\src\main\java\pages\LessonPage.java
+C:\QA\ProjectWork\src\main\java\tools\WaitTools.java
